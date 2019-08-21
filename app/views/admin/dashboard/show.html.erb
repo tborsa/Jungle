@@ -1,9 +1,9 @@
 <h1>Admin::Dashboard#show</h1>
 <div class="alert alert-success">
-<%= link_to @products, controller: "products"%> products
+<%= link_to @products, :admin_products %> products
 </div>
 <div class="alert alert-success">
-  <%= link_to @categories, controller: "products"%> categories
+  <%= link_to @categories, :admin_categories %> categories
 </div>
 <div class="alert alert-success">
   <strong><%=@orders%></strong> orders
