@@ -1,7 +1,7 @@
 # Jungle
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
-
+This was a project where I was given a skelton of a ruby app and I added features such as login and products.
 
 ## Setup
 
