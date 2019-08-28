@@ -3,6 +3,10 @@
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 This was a project where I was given a skelton of a ruby app and I added features such as login and products.
 
+![home page](https://github.com/kir-/jungle-rails/blob/master/img/Screen%20Shot%202019-08-28%20at%202.58.47%20PM.png?raw=true)
+![login page](https://github.com/kir-/jungle-rails/blob/master/img/Screen%20Shot%202019-08-28%20at%202.58.55%20PM.png?raw=true)
+![sign up page](https://github.com/kir-/jungle-rails/blob/master/img/Screen%20Shot%202019-08-28%20at%202.59.06%20PM.png?raw=true)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
